@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthikbhatp
 - 👀 I’m interested in developing efficient and fault tolerant Software 
-- 🌱 I’m currently learning and practising the backend technologies like Web Services, Big Data in Java and Python Languages.
+- 🌱 I’m currently learning and exploring Web Services, API's, Big Data in Java and Python Languages.
 - 📫 How to reach me - Karthikbhat.jp@gmail.com
 
 <!---
